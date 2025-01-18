@@ -168,7 +168,7 @@
 }
 
 .xbox .stick.left {
-    top: 10px;
+    top: -1px;
     left: -15px;
 }
 
