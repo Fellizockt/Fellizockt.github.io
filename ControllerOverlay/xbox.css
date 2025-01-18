@@ -169,7 +169,7 @@
 
 .xbox .stick.left {
     top: 0;
-    left: 0;
+    left: 50px;
 }
 
 .xbox .stick.right {
