@@ -119,7 +119,7 @@
 
 .xbox .button.pressed {
     background-position-y: -48px;
-    margin-top: 5px;
+    margin-top: 0px;
     opacity: 1;
 }
 
@@ -138,13 +138,13 @@
 .xbox .x {
     background-position: -98px 0;
     top: 62px;
-    left: 10px;
+    left: 8px;
 }
 
 .xbox .y {
     background-position: 48px 0;
     left: 55px;
-    top: 11px;
+    top: 13px;
 }
 
 .xbox .sticks {
