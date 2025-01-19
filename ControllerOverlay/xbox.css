@@ -204,8 +204,8 @@
 }
 
 .xbox .face.down {
-    left: 0px;
-    bottom: 0px;
+    left: 20px;
+    bottom: 10px;
     width: 34px;
     height: 56px;
 }
@@ -214,16 +214,16 @@
     background-position: 0 -93px;
     width: 55px;
     height: 35px;
-    top: 0px;
-    left: 0px;
+    top: 25px;
+    left: -25px;
 }
 
 .xbox .face.right {
-    background-position: 0 -57px;
+    background-position: 0 -70px;
     width: 55px;
     height: 35px;
     top: 0px;
-    right: 0px;
+    right: 20px;
 }
 
 .xbox.half {
