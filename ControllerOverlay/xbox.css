@@ -197,7 +197,7 @@
 
 .xbox .face.up {
     background-position: 34px 0;
-    left: 21px;
+    left: 22px;
     top: -10px;
     width: 34px;
     height: 56px;
@@ -214,8 +214,8 @@
     background-position: 0 -93px;
     width: 55px;
     height: 35px;
-    top: 0px;
-    left: -10px;
+    top: -10px;
+    left: -15px;
 }
 
 .xbox .face.right {
@@ -223,7 +223,7 @@
     width: 55px;
     height: 35px;
     top: 15px;
-    right: -5px;
+    right: -15px;
 }
 
 .xbox.half {
