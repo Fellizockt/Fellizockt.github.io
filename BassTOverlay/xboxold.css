@@ -1,6 +1,6 @@
 /*BEGIN Xbox 360 Controller Styling*/
 .controller.xbox-old {
-    background: url(Base.png);
+    background: url(base.png);
     height: 544px;
     width: 668px;
     /*    margin-left: -332px;
@@ -267,5 +267,6 @@
 .xbox-old.half {
     margin-top: -272px;
 }
+
 
 /*END Xbox 360 Controller Styling*/
