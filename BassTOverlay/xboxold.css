@@ -170,8 +170,8 @@
 }
 
 .xbox-old .stick.left {
-    top: -4;
-    left: -5;
+    top: -10;
+    left: -10;
 }
 
 .xbox-old .stick.right {
@@ -242,6 +242,7 @@
 
 
 /*END Xbox 360 Controller Styling*/
+
 
 
 
