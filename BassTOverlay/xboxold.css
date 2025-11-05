@@ -90,34 +90,6 @@
     transform: rotate(180deg);
 }
 
-.xbox-old .arrows {
-    position: absolute;
-    width: 180px;
-    height: 29px;
-    top: 200px;
-    left: 244px;
-}
-
-.xbox-old .back, .xbox-old .start {
-    background: url(xbox-assets-old/arrow.png);
-    width: 34px;
-    height: 29px;
-}
-
-.xbox-old .back.pressed, .xbox-old .start.pressed {
-    background-position: 0 -30px;
-}
-
-.xbox-old .back {
-    float: left;
-    -webkit-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-}
-
-.xbox-old .start {
-    float: right;
-}
-
 .xbox-old .abxy {
     position: absolute;
     width: 161px;
@@ -198,8 +170,8 @@
 }
 
 .xbox-old .stick.left {
-    top: 0;
-    left: 0;
+    top: -4;
+    left: -5;
 }
 
 .xbox-old .stick.right {
@@ -270,5 +242,6 @@
 
 
 /*END Xbox 360 Controller Styling*/
+
 
 
