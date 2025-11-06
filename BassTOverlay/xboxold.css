@@ -176,7 +176,7 @@
 
 .xbox-old .stick.right {
     top: calc(100% - 86px);
-    left: calc(100% - 86px);
+    left: calc(100% - 88px);
 }
 
 .xbox-old .dpad {
@@ -242,6 +242,7 @@
 
 
 /*END Xbox 360 Controller Styling*/
+
 
 
 
